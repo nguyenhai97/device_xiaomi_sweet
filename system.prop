@@ -22,3 +22,6 @@ persist.vendor.camera.facepp.fdenable=0
 
 # Bluetooth
 ro.bluetooth.library_name=libbluetooth_qti.so
+
+# Charger
+ro.charger.enable_suspend=true
