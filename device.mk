@@ -106,6 +106,7 @@ PRODUCT_COPY_FILES += \
 
 # rro_overlays
 PRODUCT_PACKAGES += \
+    WifiOverlay \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay
 
