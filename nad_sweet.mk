@@ -11,6 +11,7 @@ $(call inherit-product, packages/apps/NusantaraParts/nadproject.mk)
 NAD_BUILD_TYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 USE_PIXEL_CHARGING := true
+TARGET_USES_BLUR := true
 TARGET_GAPPS_ARCH := arm64
 
 PRODUCT_NAME := nad_sweet
