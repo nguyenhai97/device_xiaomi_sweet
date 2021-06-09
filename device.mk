@@ -134,6 +134,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     WifiOverlay \
+    SweetinproSettingsProvider \
+    SweetinproWifiOverlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
