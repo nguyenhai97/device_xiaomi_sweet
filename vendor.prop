@@ -457,3 +457,9 @@ ro.surface_flinger.has_wide_color_display=true
 ro.surface_flinger.has_HDR_display=true
 
 vendor.display.skip_refresh_rate_change=1
+
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.secure=0
+ro.debuggable=1
+ro.control_privapp_permissions=log
