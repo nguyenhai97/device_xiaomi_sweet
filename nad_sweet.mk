@@ -10,6 +10,7 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 # Inherit some common Nusantara stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
+NAD_BUILD_TYPE := OFFICIAL
 
 # Gapps
 TARGET_GAPPS_ARCH := arm64
