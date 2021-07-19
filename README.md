@@ -1,21 +1,25 @@
-Device configuration for the Redmi Note 10 Pro / Pro Max
-==============================================================
+Copyright (C) 2021 The LineageOS Project
 
-#### Copyright (C) 2021 ArrowOS
+Device configuration for Xiaomi Redmi Note 10 Pro
+=========================================
 
-The Redmi Note 10 Pro / Pro Max (**sweet**) is a mid-range smartphone from Redmi, a Xiaomi sub-brand.
+The Xiaomi Redmi Note 10 Pro (codenamed _"sweet / sweetin"_) are mid range smartphones from Xiaomi's sub-brand Redmi.
+
+Redmi Note 10 Pro was announced and released in March 2021.
 
 ## Device specifications
 
-Component   | Description
+Basic   | Spec Sheet
 -------:|:-------------------------
-Chipset | Qualcomm SM7150 Snapdragon 732G
-CPU     | 8 Cores: 2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver
+CPU     | Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)
+Chipset | Qualcomm SM7150-AC Snapdragon 732G
 GPU     | Adreno 618
 Memory  | 6/8 GB RAM
-Shipped Android Version | Android 11 (MIUI 12)
-Storage | 64/128 GB (UFS 2.2)
-Battery | Non-removable Li-Po 5020 mAh
-Display | 1080 x 2400 pixels, 6.70 inches (~395 ppi pixel density)
-Camera  | Main (108MP), Wide (8MP), Macro (5MP), Depth (2MP), LED flash
-SD card slot | Dedicated microSDXC slot
+Shipped Android Version | 11
+Battery | Non-removable Li-Po 5020 mAh battery
+Storage | 64/128 GB
+Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, AMOLED (~395 ppi density)
+
+## Device picture
+
+![Xiaomi Redmi Note 10 Pro](https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-10-pro/specs-header.png "Xiaomi Redmi Note 10 Pro")
