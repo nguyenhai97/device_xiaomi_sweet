@@ -1,3 +1,7 @@
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-fluid
+
 # Shipping level
 PRODUCT_SHIPPING_API_LEVEL := 30
 
