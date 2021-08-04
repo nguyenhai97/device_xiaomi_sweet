@@ -1,7 +1,7 @@
 Device configuration for the Redmi Note 10 Pro / Pro Max
 ==============================================================
 
-#### Copyright (C) 2021 ArrowOS
+#### Copyright (C) 2021 Havoc-OS
 
 The Redmi Note 10 Pro / Pro Max (**sweet**) is a mid-range smartphone from Redmi, a Xiaomi sub-brand.
 
